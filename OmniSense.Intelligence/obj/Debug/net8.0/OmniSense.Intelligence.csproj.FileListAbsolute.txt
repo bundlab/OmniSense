@@ -1,0 +1,15 @@
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.csproj.AssemblyReference.cache
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.GeneratedMSBuildEditorConfig.editorconfig
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.AssemblyInfoInputs.cache
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.AssemblyInfo.cs
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.csproj.CoreCompileInputs.cache
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/bin/Debug/net8.0/OmniSense.Intelligence.deps.json
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/bin/Debug/net8.0/OmniSense.Intelligence.dll
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/bin/Debug/net8.0/OmniSense.Intelligence.pdb
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/bin/Debug/net8.0/OmniSense.Core.dll
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/bin/Debug/net8.0/OmniSense.Core.pdb
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSens.54EE6D24.Up2Date
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.dll
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/refint/OmniSense.Intelligence.dll
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/OmniSense.Intelligence.pdb
+/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Intelligence/obj/Debug/net8.0/ref/OmniSense.Intelligence.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4gSY5yrjODk=",
+  "success": true,
+  "projectFilePath": "/home/bundlab/Desktop/CSharpSpace/OmniSense/OmniSense.Hardware/OmniSense.Hardware.csproj",
+  "expectedPackageFiles": [
+    "/home/bundlab/.nuget/packages/system.device.gpio/4.2.0/system.device.gpio.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
